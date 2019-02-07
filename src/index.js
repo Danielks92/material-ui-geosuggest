@@ -1,5 +1,6 @@
-import React, { Component, PropTypes } from 'react';
-import TextField from 'material-ui/TextField';
+import React, { Component } from 'react';
+import TextField from '@material-ui/core/TextField';
+import PropTypes from 'prop-types';
 
 class MuiGeoSuggest extends Component {
     constructor(props) {
