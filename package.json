@@ -50,13 +50,13 @@
     "mocha": "^2.4.5",
     "nodemon": "^1.9.1",
     "react-addons-test-utils": "^15.0.0",
-    "react": "^15.0.0",
-    "react-dom": "^15.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
     "sinon": "^1.17.3"
   },
   "peerDependencies": {
-    "react": "~0.14.8 || ^15.0.0",
-    "react-dom": "~0.14.8 || ^15.0.0"
+    "react": "~0.14.8 || ^16.2.0",
+    "react-dom": "~0.14.8 || ^16.2.0"
   },
   "dependencies": {
     "@material-ui/core": "^3.9.2",
